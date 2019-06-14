@@ -1,0 +1,24 @@
+{
+    "name": "arya/motorbikes",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [],
+    "version": "1.0.0",
+    "require": {
+        "typo3/cms-core": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arya\\Motorbikes\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Arya\\Motorbikes\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "motorbikes": "self.version",
+        "typo3-ter/motorbikes": "self.version"
+    }
+}

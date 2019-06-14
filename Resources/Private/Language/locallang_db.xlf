@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-06-14T17:10:58Z" product-name="motorbikes">
+		<header/>
+		<body>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike">
+				<source>Motorbike</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.modelname">
+				<source>Modelname</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.producer">
+				<source>Producer</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.tank">
+				<source>Tank</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.suspension">
+				<source>Suspension</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.wheels">
+				<source>Wheels</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.handlebar">
+				<source>Handlebar</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.frontlamp">
+				<source>Frontlamp</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.rearlight">
+				<source>Rearlight</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_motorbike.spy">
+				<source>Spy</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_producer">
+				<source>Producer</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_producer.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_tank">
+				<source>Tank</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_tank.maximum">
+				<source>Maximum</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_suspension">
+				<source>Suspension</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_suspension.endurance">
+				<source>Endurance</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_wheels">
+				<source>Wheels</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_wheels.size">
+				<source>Size</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_handlebar">
+				<source>Handlebar</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_handlebar.size">
+				<source>Size</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_frontlamp">
+				<source>Frontlamp</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_frontlamp.size">
+				<source>Size</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_frontlamp.form">
+				<source>Form</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_rearlight">
+				<source>Rearlight</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_rearlight.size">
+				<source>Size</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_spy">
+				<source>Spy</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_domain_model_spy.pair">
+				<source>Pair</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_motorbike.name">
+				<source>motorbike</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_motorbike.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_producer.name">
+				<source>producer</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_producer.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_tank.name">
+				<source>tank</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_tank.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_suspension.name">
+				<source>suspension</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_suspension.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_wheels.name">
+				<source>wheels</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_wheels.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_handlebar.name">
+				<source>handlebar</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_handlebar.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_rearlight.name">
+				<source>rearlight</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_rearlight.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_frontlamp.name">
+				<source>frontlamp</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_frontlamp.description">
+				<source></source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_spy.name">
+				<source>spy</source>
+			</trans-unit>
+			<trans-unit id="tx_motorbikes_spy.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

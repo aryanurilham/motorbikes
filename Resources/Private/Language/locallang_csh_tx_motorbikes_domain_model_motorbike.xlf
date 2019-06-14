@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-06-14T17:10:58Z" product-name="motorbikes">
+		<header/>
+		<body>
+			<trans-unit id="modelname.description">
+				<source>modelname</source>
+			</trans-unit>
+			<trans-unit id="producer.description">
+				<source>producer</source>
+			</trans-unit>
+			<trans-unit id="tank.description">
+				<source>tank</source>
+			</trans-unit>
+			<trans-unit id="suspension.description">
+				<source>suspension</source>
+			</trans-unit>
+			<trans-unit id="wheels.description">
+				<source>wheels</source>
+			</trans-unit>
+			<trans-unit id="handlebar.description">
+				<source>handlebar</source>
+			</trans-unit>
+			<trans-unit id="frontlamp.description">
+				<source>frontlamp</source>
+			</trans-unit>
+			<trans-unit id="rearlight.description">
+				<source>rearlight</source>
+			</trans-unit>
+			<trans-unit id="spy.description">
+				<source>spy</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
